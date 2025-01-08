@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uPe8HdLBbAHTqpeQFa5eBOh5ilp0/NwH+w511Zq8AOM=",
+  "Hash": "rxnSuWojY/bS/fDC4rzMoT4N/4z2fWsvwxgeExkb9DQ=",
   "Source": "Question2",
   "BasePath": "_content/Question2",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Question2\\wwwroot",
       "Source": "Question2",
-      "ContentRoot": "D:\\university\\VP lab final\\Question2\\wwwroot\\",
+      "ContentRoot": "D:\\university\\VP lab final\\Final-VP\\Question2\\wwwroot\\",
       "BasePath": "_content/Question2",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\university\\VP lab final\\Question2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Question2.styles.css",
+      "Identity": "D:\\university\\VP lab final\\Final-VP\\Question2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Question2.styles.css",
       "SourceId": "Question2",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\university\\VP lab final\\Question2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\university\\VP lab final\\Final-VP\\Question2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Question2",
       "RelativePath": "Question2#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "YKzhw8I1yK6wLMeCeXKtuu73D+piyzC6h2SGGzVLzss=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\university\\VP lab final\\Question2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Question2.styles.css"
+      "OriginalItemSpec": "D:\\university\\VP lab final\\Final-VP\\Question2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Question2.styles.css"
     },
     {
-      "Identity": "D:\\university\\VP lab final\\Question2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Question2.bundle.scp.css",
+      "Identity": "D:\\university\\VP lab final\\Final-VP\\Question2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Question2.bundle.scp.css",
       "SourceId": "Question2",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\university\\VP lab final\\Question2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\university\\VP lab final\\Final-VP\\Question2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Question2",
       "RelativePath": "Question2#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "YKzhw8I1yK6wLMeCeXKtuu73D+piyzC6h2SGGzVLzss=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\university\\VP lab final\\Question2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Question2.bundle.scp.css"
+      "OriginalItemSpec": "D:\\university\\VP lab final\\Final-VP\\Question2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Question2.bundle.scp.css"
     },
     {
-      "Identity": "D:\\university\\VP lab final\\Question2\\wwwroot\\app.css",
+      "Identity": "D:\\university\\VP lab final\\Final-VP\\Question2\\wwwroot\\app.css",
       "SourceId": "Question2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\university\\VP lab final\\Question2\\wwwroot\\",
+      "ContentRoot": "D:\\university\\VP lab final\\Final-VP\\Question2\\wwwroot\\",
       "BasePath": "_content/Question2",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "D:\\university\\VP lab final\\Question2\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\university\\VP lab final\\Final-VP\\Question2\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "Question2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\university\\VP lab final\\Question2\\wwwroot\\",
+      "ContentRoot": "D:\\university\\VP lab final\\Final-VP\\Question2\\wwwroot\\",
       "BasePath": "_content/Question2",
       "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\university\\VP lab final\\Question2\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\university\\VP lab final\\Final-VP\\Question2\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Question2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\university\\VP lab final\\Question2\\wwwroot\\",
+      "ContentRoot": "D:\\university\\VP lab final\\Final-VP\\Question2\\wwwroot\\",
       "BasePath": "_content/Question2",
       "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\university\\VP lab final\\Question2\\wwwroot\\favicon.png",
+      "Identity": "D:\\university\\VP lab final\\Final-VP\\Question2\\wwwroot\\favicon.png",
       "SourceId": "Question2",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\university\\VP lab final\\Question2\\wwwroot\\",
+      "ContentRoot": "D:\\university\\VP lab final\\Final-VP\\Question2\\wwwroot\\",
       "BasePath": "_content/Question2",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -146,7 +146,7 @@
   "Endpoints": [
     {
       "Route": "app.css",
-      "AssetFile": "D:\\university\\VP lab final\\Question2\\wwwroot\\app.css",
+      "AssetFile": "D:\\university\\VP lab final\\Final-VP\\Question2\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -183,7 +183,7 @@
     },
     {
       "Route": "app.da95v2qkru.css",
-      "AssetFile": "D:\\university\\VP lab final\\Question2\\wwwroot\\app.css",
+      "AssetFile": "D:\\university\\VP lab final\\Final-VP\\Question2\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -228,7 +228,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "D:\\university\\VP lab final\\Question2\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "D:\\university\\VP lab final\\Final-VP\\Question2\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -273,7 +273,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "D:\\university\\VP lab final\\Question2\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "D:\\university\\VP lab final\\Final-VP\\Question2\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -310,7 +310,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "D:\\university\\VP lab final\\Question2\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "D:\\university\\VP lab final\\Final-VP\\Question2\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -355,7 +355,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "D:\\university\\VP lab final\\Question2\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "D:\\university\\VP lab final\\Final-VP\\Question2\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -392,7 +392,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "D:\\university\\VP lab final\\Question2\\wwwroot\\favicon.png",
+      "AssetFile": "D:\\university\\VP lab final\\Final-VP\\Question2\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -437,7 +437,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "D:\\university\\VP lab final\\Question2\\wwwroot\\favicon.png",
+      "AssetFile": "D:\\university\\VP lab final\\Final-VP\\Question2\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -474,7 +474,7 @@
     },
     {
       "Route": "Question2.43z8cxsu0h.bundle.scp.css",
-      "AssetFile": "D:\\university\\VP lab final\\Question2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Question2.bundle.scp.css",
+      "AssetFile": "D:\\university\\VP lab final\\Final-VP\\Question2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Question2.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -519,7 +519,7 @@
     },
     {
       "Route": "Question2.43z8cxsu0h.styles.css",
-      "AssetFile": "D:\\university\\VP lab final\\Question2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Question2.styles.css",
+      "AssetFile": "D:\\university\\VP lab final\\Final-VP\\Question2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Question2.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -564,7 +564,7 @@
     },
     {
       "Route": "Question2.bundle.scp.css",
-      "AssetFile": "D:\\university\\VP lab final\\Question2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Question2.bundle.scp.css",
+      "AssetFile": "D:\\university\\VP lab final\\Final-VP\\Question2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Question2.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -601,7 +601,7 @@
     },
     {
       "Route": "Question2.styles.css",
-      "AssetFile": "D:\\university\\VP lab final\\Question2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Question2.styles.css",
+      "AssetFile": "D:\\university\\VP lab final\\Final-VP\\Question2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Question2.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
